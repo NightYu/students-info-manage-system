@@ -1,5 +1,6 @@
 # students-info-manage-system
 to manage the students' information
+new
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
